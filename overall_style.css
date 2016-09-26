@@ -1,0 +1,17 @@
+body {
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+}
+
+p, div {
+	color: #FFFFFF;
+	font-size: 1.5em;
+
+	text-align: center;
+}
+
+
+#next {
+
+	font-size: 2em;
+}

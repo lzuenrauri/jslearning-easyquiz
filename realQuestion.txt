@@ -1,0 +1,6 @@
+realQuestion = [{question: "Who is Prime Minister of the United Kingdom?", choices: ["David Cameron", "Gordon Brown", "Winston Churchill", "Tony Blair"], correctAnswer:0},
+{question: "Which is the link between the living and non-living?", choices: ["Bacteria", "Viruses", "Plankton", "none of these"], correctAnswer:1},
+{question: "Commonly used spice clove is obtained from which part of the plant?", choices:["Root", "Stem", "Flower bud", "Fruit"], correctAnswer:2},
+{question: "Which one of the following is not a stem modification?", choices: ["Arrowroot", "Garlic", "Ginger", "Lotus", "Sweet patato", "None of these"], correctAnswer:4},
+{question: "Which of the following animals can bring oxygen directly to the cell?", choices: ["Spider", "Insect", "Flat worm", "Scorpion"], correctAnswer:1}
+					 ];
